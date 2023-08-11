@@ -7,8 +7,7 @@ It adds state into a component.
 
 They all start with the word use.
 
-So useCallback, useContext, useEffect, useID, useState useReducer, useMemo.
-It all comes with react, but we have to decide to use them in a given component.
+
 
 
 
@@ -20,3 +19,8 @@ const properties = [
   { id: 129034, name: "Oceanview Condo", rating: 4.7, price: 140 },
   { id: 129035, name: "Gold Miner Campground", rating: 4.69, price: 96 },
 ];
+
+
+
+ http://127.0.0.1:5173/
+Network: use --host to expose
