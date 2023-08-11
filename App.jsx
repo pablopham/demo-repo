@@ -11,6 +11,7 @@ function App() {
     <>
       <CssBaseline />
       <NavBar />
+      <h1>Welcome to the world of React!</h1>
       <TodoList />
     </>
   );
